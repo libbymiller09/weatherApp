@@ -1,0 +1,21 @@
+nav li {
+  list-style-type: none;
+}
+
+.week h2 {
+  padding-left: 2rem;
+}
+
+.day{
+  border: 1px solid black;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+.day h2 {
+  font-weight: lighter;
+}
+
+i {
+  padding: .5rem;
+}
